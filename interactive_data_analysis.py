@@ -6,7 +6,7 @@ app = marimo.App(width="medium")
 
 @app.cell
 def __():
-    # Author: 23f3000048@ds.study.iitm.ac.in
+    # Author: 23f2004258@ds.study.iitm.ac.in
     # Interactive Data Analysis with Marimo
     # This notebook demonstrates reactive programming with variable dependencies
     
@@ -20,7 +20,7 @@ def __():
     mo.md("""
     # Interactive Data Analysis with Marimo
     
-    **Author:** 23f3000048@ds.study.iitm.ac.in  
+    **Author:** 23f2004258@ds.study.iitm.ac.in  
     **Date:** August 16, 2025
     
     This notebook demonstrates Marimo's reactive programming capabilities with:
@@ -408,7 +408,7 @@ def __(mo):
     Raw Data → User Controls → Filtered Data → Analysis → Visualizations & Reports
     ```
     
-    **Author**: 23f3000048@ds.study.iitm.ac.in  
+    **Author**: 23f2004258@ds.study.iitm.ac.in  
     **Created with**: Marimo v0.8.0  
     **Date**: August 16, 2025
     """)
